@@ -21,7 +21,7 @@ $ npm install craco-raw-loader raw-loader --save-dev
 Here is a simple `craco.config.js` example for `frag` (OpenGL Fragment Shader) files:
 
 ```js
-const rawLoader = require('./craco-raw-loader')
+const rawLoader = require('craco-raw-loader')
 
 module.exports = {
   webpack: {
