@@ -7,11 +7,11 @@ This is a [craco](https://github.com/sharegate/craco) plugin that makes it easy 
 ## Installation
 
 ```bash
-$ yarn add -D craco-raw-loader raw-loader
+$ yarn add -D craco-raw-loader
 
 # OR
 
-$ npm install craco-raw-loader raw-loader --save-dev
+$ npm install craco-raw-loader --save-dev
 ```
 
 ## Basic Usage
