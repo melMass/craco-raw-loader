@@ -24,11 +24,10 @@ Here is a simple `craco.config.js` example for `frag` (OpenGL Fragment Shader) f
 const rawLoader = require('craco-raw-loader')
 
 module.exports = {
-  webpack: {
     plugins: [
-     { plugin: rawLoader,
+     { 
+       plugin: rawLoader,
        options: { test: /\.frag$/ }
      }
-  ]
 }
 ```
