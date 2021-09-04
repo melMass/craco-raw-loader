@@ -1,6 +1,6 @@
 {
   "name": "craco-raw-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A craco plugin to use raw-loader with create-react-app",
   "main": "index.js",
   "author": "Mel Massadian",
