@@ -10,7 +10,7 @@ specifiers:
   lint-staged: ^13.0.3
   prettier: ^2.7.1
   raw-loader: ^4.0.2
-  react-scripts: 5.0.0
+  react-scripts: ^5.0.0
 
 dependencies:
   raw-loader: 4.0.2
@@ -4079,7 +4079,7 @@ packages:
       postcss: ^8.2.15
     dependencies:
       cssnano-preset-default: 5.2.12_postcss@8.4.14
-      lilconfig: 2.0.5
+      lilconfig: 2.0.6
       postcss: 8.4.14
       yaml: 1.10.2
     dev: true
