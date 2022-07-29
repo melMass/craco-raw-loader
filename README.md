@@ -1,4 +1,8 @@
-# Craco Raw Plugin
+# DEPRECATED
+> ⚠️ The status of Craco is uncertain, this still works for older CRA versions.
+But starting with v5 you can use [Asset Modules](https://webpack.js.org/guides/asset-modules/)
+
+## Craco Raw Plugin
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
