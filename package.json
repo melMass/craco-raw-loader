@@ -12,6 +12,9 @@
     "webpack",
     "raw-loader"
   ],
+  "scripts": {
+    "prepare": "husky install"
+  },
   "devDependencies": {
     "@craco/craco": "^7.0.0-alpha.3",
     "eslint": "8.16.0",
