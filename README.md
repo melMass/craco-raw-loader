@@ -29,5 +29,6 @@ module.exports = {
        plugin: rawLoader,
        options: { test: /\.frag$/ }
      }
+    ]
 }
 ```
