@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-This is a [craco](https://github.com/sharegate/craco) plugin that makes it easy to use the webpack [raw-loader](https://github.com/webpack-contrib/raw-loader) with [create-react-app](https://facebook.github.io/create-react-app/) version >= 2.
+This is a [craco](https://github.com/dilanx/craco) plugin that makes it easy to use the webpack [raw-loader](https://github.com/webpack-contrib/raw-loader) with [create-react-app](https://facebook.github.io/create-react-app/) version >= 5.0.0
 
 ## Installation
 
